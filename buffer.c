@@ -5,4 +5,9 @@ void copy() {
     strcpy(dest, "This is too long");  // ❌ overflow
     int l=10;
     int m=20;
+    if (condition)
+    {
+        /* code */
+    }
+    
 }
