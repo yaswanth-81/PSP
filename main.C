@@ -8,5 +8,9 @@ int main() {
     int result = divide(a, b);
     printf("Result: %d\n", result);
 
+        // 🔴 Introduced bug (Commit 3)
+    int *ptr = NULL;
+    printf("%d\n", *ptr);  // ❌ null pointer dereference
+    
     return 0;
 }
