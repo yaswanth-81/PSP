@@ -2,6 +2,7 @@
 #include "math_utils.h"
 
 int main() {
+    int test = 100;
     int a = 10;
     int b = 2;
 
