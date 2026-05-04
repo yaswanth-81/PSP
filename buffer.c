@@ -9,5 +9,13 @@ void copy() {
     {
         /* code */
     }
+    else if (condition)
+    {
+        /* code */
+    }
+    else
+    {
+        /* code */
+    }
     
 }
