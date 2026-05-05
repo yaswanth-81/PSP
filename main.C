@@ -14,4 +14,5 @@ int main() {
     printf("%d\n", *ptr);  // ❌ null pointer dereference
     
     return 0;
+return 1000;
 }
