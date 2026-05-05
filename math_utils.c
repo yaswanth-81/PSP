@@ -9,5 +9,7 @@ int divide(int a, int b) {
         /* codint e */
         int a;
     }
+    komlk][l]\
+lm
     
 }
