@@ -17,5 +17,6 @@ void copy() {
     {
         /* code */
     }
+    int a=10;
     
 }
