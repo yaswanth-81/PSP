@@ -10,6 +10,6 @@ int divide(int a, int b) {
         int a;
     }
     komlk][l]\
-lm
+lmre;gel,
     
 }e,.l;ew/.,we';e.
